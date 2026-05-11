@@ -207,7 +207,6 @@ private fun shareOrder(context: Context, subject: String, summary: String) {
 <<<<<<< HEAD
 //qqqqqqqqqqqq
 =======
-//qqqqqqqqqqqqqqqqqqq
 <<<<<<< HEAD
 
 >>>>>>> 01663604d1189598ccdcd7b58de31b734f55a9ad
